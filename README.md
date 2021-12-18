@@ -5,7 +5,7 @@ Un primer ejemplo sobre codigo para tarjeta de presentacion con menu de redes so
 
 Comenzando 🚀
 
-Link de prueba: 
+Link de prueba: https://ejpyszczek.github.io/Tarjeta-Web-Presentacion/
 
 Herramientas requisitos 📋 HTML - CSS - Visual Studio Code
 
