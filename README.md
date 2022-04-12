@@ -1,7 +1,7 @@
 # Tarjeta Digital de Presentacion con un Menu de todas las Redes Sociales
 
 DESCRIPCION
-Un primer ejemplo sobre codigo para tarjeta de presentacion con menu de redes sociales en HTLM5 y CSS3
+Un primer ejemplo sobre codigo para tarjeta de presentacion digital con menu de completo de redes sociales en HTLM5 y CSS3
 
 Comenzando 🚀
 
@@ -9,7 +9,7 @@ Link de prueba: https://ejpyszczek.github.io/Tarjeta-Web-Presentacion/
 
 Herramientas requisitos 📋 HTML - CSS - Visual Studio Code
 
-Versionado 📌 Primera Version
+Versionado 📌 Segunda Version
 
 Autores ✒️ Enrique J. Pyszczek
 
