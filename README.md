@@ -1,4 +1,4 @@
-# Tarjeta Digital de Presentacion con Menu de los link a las Redes Sociales
+# Tarjeta Digital de Presentacion con Menu y los link a las Redes Sociales
 
 DESCRIPCION
 Ejemplo sobre codigo para tarjeta de presentacion digital con menu completo de redes sociales en HTLM5 y CSS3
